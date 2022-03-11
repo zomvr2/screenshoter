@@ -1,0 +1,22 @@
+{
+  "name": "Screenshoter",
+  "version": "1.0.0",
+  "description": "screenshot faster than light",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zomvr2/screenshoter.git"
+  },
+  "author": "zodev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zomvr2/screenshoter/issues"
+  },
+  "homepage": "https://github.com/zomvr2/screenshoter#readme",
+  "devDependencies": {
+    "electron": "^17.1.2"
+  }
+}
